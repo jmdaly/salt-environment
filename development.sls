@@ -4,6 +4,8 @@ development:
     - pkgs:
       - g++
       - clang
+      - doxygen
+      - graphviz
       # This is needed to build YouCompleteMe:
       - libpython-dev
       - ctags
