@@ -1,7 +1,7 @@
 base:
   '*':
     - essentials
-  'player,tinder,builder':
+  'player,tinder,builder,grinder':
     # Treat the above comma-separated names as a list of hosts:
     - match: list
     - gui_essentials
