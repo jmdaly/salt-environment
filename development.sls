@@ -4,6 +4,8 @@ development:
     - pkgs:
       - g++
       - clang
+      - ccache
+      - distcc
       - doxygen
       - graphviz
       # This is needed to build YouCompleteMe:
