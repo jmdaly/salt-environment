@@ -11,3 +11,4 @@ essentials:
       - realpath
       - zsh
       - autossh
+      - curl
