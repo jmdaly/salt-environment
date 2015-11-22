@@ -12,3 +12,4 @@ essentials:
       - zsh
       - autossh
       - curl
+      - cifs-utils
