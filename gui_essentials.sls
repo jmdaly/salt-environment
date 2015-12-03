@@ -8,3 +8,4 @@ gui_essentials:
     - pkgs:
       - vim-gnome
       - google-chrome-stable
+      - rxvt-unicode-256color
